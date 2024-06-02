@@ -1,1 +1,2 @@
-Pratica de git para a matéria de gerência de configuração.
+Pratica de git para a matéria de gerência de configuração. 
+Adicionando algo
