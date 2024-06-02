@@ -1,2 +1,4 @@
 Pratica de git para a matéria de gerência de configuração. 
 Adicionando algo
+
+Adicionando uma nova alteração para a main local
